@@ -15,8 +15,8 @@
 <div>
   <h2>👨‍💻 The languages I have worked with (in order of how much I like them) </h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -30,7 +30,7 @@
   <p>I'm always learning a lot of diffrent things concurrently. At the moment:</p>
 <h3>🦀 I’m learning Rust.</h3>
 <p>It's fun so far!</p>
-<p>You can watch that process as it happens here:</p>
+<!-- <p>You can watch that process as it happens here:</p> -->
 <h3>🤖 I'm learning data analysis.</h3>
 <p>Mostly using Artificial Intelegence.</p>
 <p></p>
@@ -48,10 +48,10 @@ You can contact me by emailing me at JarodSimonGilliam@gmail.com or dming me on 
 <h2>See you around!</h2>
 I'm going back to coding:
 <img src="https://media1.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47j4tqb8ieax523f8u3pci1u6gusuhq2adpvbm62vx&rid=giphy.gif&ct=g" width="150"/>
-
+<!-- 
 ### :fire: My Stats :
 https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
-
+ -->
 
 <!--
 Here are some ideas to get you started:
